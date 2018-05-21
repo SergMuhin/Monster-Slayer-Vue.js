@@ -2,5 +2,5 @@
 
 Getting started:
 
-1. clone this repo
-5. run index.html in browser
+1. Clone this repo
+2. Open index.html in browser
